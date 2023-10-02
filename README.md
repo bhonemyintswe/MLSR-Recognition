@@ -9,7 +9,8 @@ This project demonstrates a real-time gesture recognition system using deep lear
 ## Table of Contents
 
 - [Dependencies](#dependencies)
-
+- [Installation](#installation)
+  
 ## Dependencies
 
 Before running the project, ensure you have the following dependencies installed:
