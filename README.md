@@ -21,3 +21,14 @@ Before running the project, ensure you have the following dependencies installed
 - OpenCV: 4.8.1
 
 You can install these dependencies using the `requirements.txt` file provided in this repository.
+
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/machine-learning-project.git
+
+# Navigate to the project directory
+cd TEXT-TO-IMAGE-STABLE-DIFFUSION
+
+# Install required packages
+pip install -r requirements.txt
