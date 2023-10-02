@@ -25,10 +25,10 @@ You can install these dependencies using the `requirements.txt` file provided in
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/machine-learning-project.git
+git clone https://github.com/bhonemyintswe/MSLR.git
 
 # Navigate to the project directory
-cd TEXT-TO-IMAGE-STABLE-DIFFUSION
+cd MSLR
 
 # Install required packages
 pip install -r requirements.txt
