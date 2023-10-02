@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project demonstrates a real-time gesture recognition system using deep learning and the Gradio library. The system can classify hand gestures captured from a video stream and provide text labels for the recognized gestures. It utilizes a pre-trained deep learning model to make predictions based on keypoint features extracted from the video frames.
+This project demonstrates a real-time gesture recognition system using deep learning and the Gradio library. The system can classify hand gestures and facial expressions captured from a video stream and provide text labels for the recognized gestures and expressions. It utilizes a pre-trained deep learning model to make predictions based on keypoint features extracted from the video frames.
 
 ## Table of Contents
 
